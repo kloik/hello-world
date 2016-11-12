@@ -1,4 +1,4 @@
-# hello-world
+# hello-world is the new ending.
 
 ## Okay fellas lets tell something
 * This is a rather suspicious commit
