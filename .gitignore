@@ -1,0 +1,5 @@
+# thumbs.db etc.
+thumbs.db
+
+# node modules
+node_modules/
